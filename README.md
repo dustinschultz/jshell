@@ -1,4 +1,4 @@
-# JShell Utilities
+# JShell Utilities Example
 
 In this repo, you'll find several folders:
 
